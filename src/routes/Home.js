@@ -23,7 +23,7 @@ const Home = () => {
                         <div class="col-lg-8">
                             <div class="post-entry lg">
                                 <a href="blog-details.html"><img src="assets/img/post-landscape-1.jpg" alt="" class="img-fluid" /></a>
-                                <div class="post-meta"><span class="date">Word of the day</span> <span class="mx-1">•</span> <span>{getFormattedDate()}</span></div>
+                                <div class="post-meta"><span class="date">Word of the day | La palabra del día</span> <span class="mx-1">•</span> <span>{getFormattedDate()}</span></div>
                                 <h2>{wordOfTheDay.word}</h2>
                                 <p class="mb-4 d-block">{wordOfTheDay.definition}</p>
                             </div>
