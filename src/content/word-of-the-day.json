@@ -1,0 +1,602 @@
+[
+    {
+      "word": "Azulejo",
+      "definition": "Baldosa decorada, usada comúnmente en paredes.",
+      "scheduledDate": "04-18"
+    },
+    {
+      "word": "Lilt",
+      "definition": "A cheerful or lively manner of speaking or a rhythmic swing in music or movement.",
+      "scheduledDate": "04-19"
+    },
+    {
+      "word": "Llovizna",
+      "definition": "Lluvia muy ligera.",
+      "scheduledDate": "04-20"
+    },
+    {
+      "word": "Quiver",
+      "definition": "To tremble or shake with a slight rapid motion.",
+      "scheduledDate": "04-21"
+    },
+    {
+      "word": "Arrullo",
+      "definition": "Canto suave para dormir a los niños.",
+      "scheduledDate": "04-22"
+    },
+    {
+      "word": "Bramble",
+      "definition": "A rough, prickly shrub, especially a blackberry or raspberry bush.",
+      "scheduledDate": "04-23"
+    },
+    {
+      "word": "Escalofrío",
+      "definition": "Sensación de frío repentino, a menudo con temblor.",
+      "scheduledDate": "04-24"
+    },
+    {
+      "word": "Whimsy",
+      "definition": "Playfully quaint or fanciful behavior or humor.",
+      "scheduledDate": "04-25"
+    },
+    {
+      "word": "Chocar",
+      "definition": "Encontrarse violentamente dos cuerpos.",
+      "scheduledDate": "04-26"
+    },
+    {
+      "word": "Clamber",
+      "definition": "To climb or move in an awkward and laborious way, typically using both hands and feet.",
+      "scheduledDate": "04-27"
+    },
+    {
+      "word": "Albahaca",
+      "definition": "Planta aromática usada en la cocina.",
+      "scheduledDate": "04-28"
+    },
+    {
+      "word": "Gossamer",
+      "definition": "A fine, filmy substance consisting of cobwebs or something light, delicate, and insubstantial.",
+      "scheduledDate": "04-29"
+    },
+    {
+      "word": "Bufanda",
+      "definition": "Prenda larga que se lleva al cuello para abrigarse.",
+      "scheduledDate": "04-30"
+    },
+    {
+      "word": "Trickle",
+      "definition": "To flow slowly in a thin stream or in drops.",
+      "scheduledDate": "05-01"
+    },
+    {
+      "word": "Escarabajo",
+      "definition": "Insecto de cuerpo duro y forma ovalada.",
+      "scheduledDate": "05-02"
+    },
+    {
+      "word": "Murmur",
+      "definition": "A soft, indistinct sound made by a person or group of people speaking quietly or at a distance.",
+      "scheduledDate": "05-03"
+    },
+    {
+      "word": "Remolino",
+      "definition": "Movimiento circular y rápido del aire o agua.",
+      "scheduledDate": "05-04"
+    },
+    {
+      "word": "Snaggle",
+      "definition": "To catch or tear something; often used informally to mean something irregular or jagged.",
+      "scheduledDate": "05-05"
+    },
+    {
+      "word": "Zambullirse",
+      "definition": "Meterse bajo el agua de golpe.",
+      "scheduledDate": "05-06"
+    },
+    {
+      "word": "Plinth",
+      "definition": "A heavy base supporting a statue or vase.",
+      "scheduledDate": "05-07"
+    },
+    {
+      "word": "Travesura",
+      "definition": "Acción propia de niños que causa daño leve o molestia.",
+      "scheduledDate": "05-08"
+    },
+    {
+      "word": "Muddle",
+      "definition": "To bring into a disordered or confusing state.",
+      "scheduledDate": "05-09"
+    },
+    {
+      "word": "Zángano",
+      "definition": "Abeja macho o persona perezosa.",
+      "scheduledDate": "05-10"
+    },
+    {
+      "word": "Skitter",
+      "definition": "To move lightly and quickly or hurriedly across a surface.",
+      "scheduledDate": "05-11"
+    },
+    {
+      "word": "Ojal",
+      "definition": "Abertura en la ropa por donde se pasa un botón.",
+      "scheduledDate": "05-12"
+    },
+    {
+      "word": "Pensive",
+      "definition": "Engaged in or involving deep or serious thought.",
+      "scheduledDate": "05-13"
+    },
+    {
+      "word": "Quebradizo",
+      "definition": "Que se rompe con facilidad.",
+      "scheduledDate": "05-14"
+    },
+    {
+      "word": "Craggy",
+      "definition": "Having rugged, rocky features, often describing a landscape or face.",
+      "scheduledDate": "05-15"
+    },
+    {
+      "word": "Aguijón",
+      "definition": "Órgano punzante de algunos insectos.",
+      "scheduledDate": "05-16"
+    },
+    {
+      "word": "Swoop",
+      "definition": "To move rapidly downward through the air.",
+      "scheduledDate": "05-17"
+    },
+    {
+      "word": "Marmota",
+      "definition": "Mamífero que hiberna y vive en madrigueras en las montañas.",
+      "scheduledDate": "05-18"
+    },
+    {
+      "word": "Dapple",
+      "definition": "Marked with spots or rounded patches of color or light.",
+      "scheduledDate": "05-19"
+    },
+    {
+      "word": "Cuchichear",
+      "definition": "Hablar en voz muy baja para que otros no oigan.",
+      "scheduledDate": "05-20"
+    },
+    {
+      "word": "Gleam",
+      "definition": "A faint or brief light, especially one reflected from something.",
+      "scheduledDate": "05-21"
+    },
+    {
+      "word": "Agridulce",
+      "definition": "Que tiene sabor dulce y ácido a la vez.",
+      "scheduledDate": "05-22"
+    },
+    {
+      "word": "Thrum",
+      "definition": "A continuous rhythmic humming sound.",
+      "scheduledDate": "05-23"
+    },
+    {
+      "word": "Efímero",
+      "definition": "De corta duración.",
+      "scheduledDate": "05-24"
+    },
+    {
+      "word": "Quibble",
+      "definition": "A slight objection or criticism about a trivial matter.",
+      "scheduledDate": "05-25"
+    },
+    {
+      "word": "Hojarasca",
+      "definition": "Conjunto de hojas secas caídas de los árboles.",
+      "scheduledDate": "05-26"
+    },
+    {
+      "word": "Bellow",
+      "definition": "To emit a deep loud roar, typically in pain or anger.",
+      "scheduledDate": "05-27"
+    },
+    {
+      "word": "Cotidiano",
+      "definition": "Que ocurre todos los días.",
+      "scheduledDate": "05-28"
+    },
+    {
+      "word": "Jostle",
+      "definition": "To push, elbow, or bump against someone roughly, typically in a crowd.",
+      "scheduledDate": "05-29"
+    },
+    {
+      "word": "Sollozar",
+      "definition": "Llorar con respiración entrecortada.",
+      "scheduledDate": "05-30"
+    },
+    {
+      "word": "Wisp",
+      "definition": "A small thin or twisted bunch, piece, or amount of something.",
+      "scheduledDate": "05-31"
+    },
+    {
+      "word": "Chispa",
+      "definition": "Partícula encendida que salta de un fuego.",
+      "scheduledDate": "06-01"
+    },
+    {
+      "word": "Tangle",
+      "definition": "A confused mass of something twisted together.",
+      "scheduledDate": "06-02"
+    },
+    {
+      "word": "Cosecha",
+      "definition": "Recogida de los frutos del campo.",
+      "scheduledDate": "06-03"
+    },
+    {
+      "word": "Nook",
+      "definition": "A corner or recess, especially one offering seclusion or security.",
+      "scheduledDate": "06-04"
+    },
+    {
+      "word": "Calabaza",
+      "definition": "Fruto grande y redondo de cáscara dura.",
+      "scheduledDate": "06-05"
+    },
+    {
+      "word": "Scurry",
+      "definition": "To move hurriedly with short quick steps.",
+      "scheduledDate": "06-06"
+    },
+    {
+      "word": "Chisguete",
+      "definition": "Pequeño chorro de líquido que sale de repente.",
+      "scheduledDate": "06-07"
+    },
+    {
+      "word": "Rumble",
+      "definition": "A continuous deep, resonant sound like distant thunder.",
+      "scheduledDate": "06-08"
+    },
+    {
+      "word": "Zancada",
+      "definition": "Paso largo que se da al andar.",
+      "scheduledDate": "06-09"
+    },
+    {
+      "word": "Flutter",
+      "definition": "To move or fall with a light irregular or trembling motion.",
+      "scheduledDate": "06-10"
+    },
+    {
+      "word": "Cántaro",
+      "definition": "Recipiente grande para contener líquidos.",
+      "scheduledDate": "06-11"
+    },
+    {
+      "word": "Glint",
+      "definition": "A small flash of light, especially as reflected from a shiny surface.",
+      "scheduledDate": "06-12"
+    },
+    {
+      "word": "Desvelado",
+      "definition": "Que ha perdido el sueño o no ha dormido.",
+      "scheduledDate": "06-13"
+    },
+    {
+      "word": "Patter",
+      "definition": "A repeated light tapping sound.",
+      "scheduledDate": "06-14"
+    },
+    {
+      "word": "Deslizar",
+      "definition": "Moverse suavemente sobre una superficie.",
+      "scheduledDate": "06-15"
+    },
+    {
+      "word": "Swivel",
+      "definition": "To turn around a point or axis or on a swivel.",
+      "scheduledDate": "06-16"
+    },
+    {
+      "word": "Trueno",
+      "definition": "Ruido fuerte que sigue a un relámpago.",
+      "scheduledDate": "06-17"
+    },
+    {
+      "word": "Haphazard",
+      "definition": "Lacking any obvious principle of organization; random.",
+      "scheduledDate": "06-18"
+    },
+    {
+      "word": "Ronronear",
+      "definition": "Sonido suave que hacen los gatos al estar contentos.",
+      "scheduledDate": "06-19"
+    },
+    {
+      "word": "Fidget",
+      "definition": "To make small movements, especially of the hands and feet, through nervousness or impatience.",
+      "scheduledDate": "06-20"
+    },
+    {
+      "word": "Aletear",
+      "definition": "Mover las alas repetidamente sin volar.",
+      "scheduledDate": "06-21"
+    },
+    {
+      "word": "Lurch",
+      "definition": "To make an abrupt, unsteady, uncontrolled movement or series of movements.",
+      "scheduledDate": "06-22"
+    },
+    {
+      "word": "Enredadera",
+      "definition": "Planta que se extiende y se enreda sobre superficies.",
+      "scheduledDate": "06-23"
+    },
+    {
+      "word": "Twinge",
+      "definition": "A sudden, sharp localized pain.",
+      "scheduledDate": "06-24"
+    },
+    {
+      "word": "Chirriar",
+      "definition": "Producir un ruido agudo desagradable.",
+      "scheduledDate": "06-25"
+    },
+    {
+      "word": "Snicker",
+      "definition": "To give a half-suppressed, typically scornful laugh.",
+      "scheduledDate": "06-26"
+    },
+    {
+      "word": "Titubear",
+      "definition": "Dudar o vacilar al hablar o actuar.",
+      "scheduledDate": "06-27"
+    },
+    {
+      "word": "Cobble",
+      "definition": "To roughly assemble or put together something from available parts.",
+      "scheduledDate": "06-28"
+    },
+    {
+      "word": "Burbujear",
+      "definition": "Producir burbujas al hervir o al pasar aire por un líquido.",
+      "scheduledDate": "06-29"
+    },
+    {
+      "word": "Dwindle",
+      "definition": "To diminish gradually in size, amount, or strength.",
+      "scheduledDate": "06-30"
+    },
+    {
+      "word": "Rebotar",
+      "definition": "Saltar hacia atrás al chocar con una superficie.",
+      "scheduledDate": "07-01"
+    },
+    {
+      "word": "Plunk",
+      "definition": "To drop or set down heavily or abruptly.",
+      "scheduledDate": "07-02"
+    },
+    {
+      "word": "Perenne",
+      "definition": "Que es continuo, incesante o no muere.",
+      "scheduledDate": "07-03"
+    },
+    {
+      "word": "Jumble",
+      "definition": "An untidy collection or pile of things.",
+      "scheduledDate": "07-04"
+    },
+    {
+      "word": "Laberinto",
+      "definition": "Lugar formado por calles o pasillos enredados.",
+      "scheduledDate": "07-05"
+    },
+    {
+      "word": "Smudge",
+      "definition": "A blurred or smeared mark on the surface of something.",
+      "scheduledDate": "07-06"
+    },
+    {
+      "word": "Tintura",
+      "definition": "Disolución de una sustancia en alcohol, usada medicinalmente o para teñir.",
+      "scheduledDate": "07-07"
+    },
+    {
+      "word": "Bask",
+      "definition": "To lie exposed to warmth and light, typically from the sun, for relaxation or pleasure.",
+      "scheduledDate": "07-08"
+    },
+    {
+      "word": "Amanecer",
+      "definition": "Momento en que empieza a aparecer la luz del día.",
+      "scheduledDate": "07-09"
+    },
+    {
+      "word": "Knoll",
+      "definition": "A small hill or mound.",
+      "scheduledDate": "07-10"
+    },
+    {
+      "word": "Ráfaga",
+      "definition": "Golpe de viento fuerte y repentino.",
+      "scheduledDate": "07-11"
+    },
+    {
+      "word": "Flicker",
+      "definition": "To shine unsteadily; vary rapidly in brightness.",
+      "scheduledDate": "07-12"
+    },
+    {
+      "word": "Murmullo",
+      "definition": "Ruido suave y continuo, como el que produce una conversación en voz baja.",
+      "scheduledDate": "07-13"
+    },
+    {
+      "word": "Blurt",
+      "definition": "To say something suddenly and without careful consideration.",
+      "scheduledDate": "07-14"
+    },
+    {
+      "word": "Tintinear",
+      "definition": "Producir un sonido agudo y repetido, como el de campanillas.",
+      "scheduledDate": "07-15"
+    },
+    {
+      "word": "Peep",
+      "definition": "To look quickly and furtively at something, especially through a narrow opening.",
+      "scheduledDate": "07-16"
+    },
+    {
+      "word": "Desenlace",
+      "definition": "Final o resolución de una historia.",
+      "scheduledDate": "07-17"
+    },
+    {
+      "word": "Drizzle",
+      "definition": "Light rain falling in very fine drops.",
+      "scheduledDate": "07-18"
+    },
+    {
+      "word": "Parpadear",
+      "definition": "Abrir y cerrar los párpados rápidamente.",
+      "scheduledDate": "07-19"
+    },
+    {
+      "word": "Hiss",
+      "definition": "A sharp sibilant sound similar to a prolonged 's'.",
+      "scheduledDate": "07-20"
+    },
+    {
+      "word": "Escarcha",
+      "definition": "Capa de hielo que se forma por el rocío congelado.",
+      "scheduledDate": "07-21"
+    },
+    {
+      "word": "Thud",
+      "definition": "A dull, heavy sound, such as that made by an object falling to the ground.",
+      "scheduledDate": "07-22"
+    },
+    {
+      "word": "Adivinar",
+      "definition": "Descubrir algo oculto sin tener evidencia.",
+      "scheduledDate": "07-23"
+    },
+    {
+      "word": "Crinkle",
+      "definition": "To form small creases or wrinkles.",
+      "scheduledDate": "07-24"
+    },
+    {
+      "word": "Zócalo",
+      "definition": "Base sobre la que se apoya una columna o estatua; también una plaza principal en México.",
+      "scheduledDate": "07-25"
+    },
+    {
+      "word": "Gnarled",
+      "definition": "Knobbly, rough, and twisted, especially with age.",
+      "scheduledDate": "07-26"
+    },
+    {
+      "word": "Abanico",
+      "definition": "Objeto que se usa para mover aire y refrescarse, generalmente hecho de tela o papel plegado.",
+      "scheduledDate": "07-27"
+    },
+    {
+      "word": "Sprig",
+      "definition": "A small stem bearing leaves or flowers, taken from a plant.",
+      "scheduledDate": "07-28"
+    },
+    {
+      "word": "Cigarra",
+      "definition": "Insecto conocido por su canto fuerte en verano.",
+      "scheduledDate": "07-29"
+    },
+    {
+      "word": "Waddle",
+      "definition": "To walk with short steps and a clumsy swaying motion.",
+      "scheduledDate": "07-30"
+    },
+    {
+      "word": "Gaviota",
+      "definition": "Ave marina de color blanco y alas largas.",
+      "scheduledDate": "07-31"
+    },
+    {
+      "word": "Gush",
+      "definition": "To flow out suddenly and in large amounts.",
+      "scheduledDate": "08-01"
+    },
+    {
+      "word": "Carcajada",
+      "definition": "Risa impetuosa y ruidosa.",
+      "scheduledDate": "08-02"
+    },
+    {
+      "word": "Sputter",
+      "definition": "To make a series of soft explosive sounds, typically when failing to work properly.",
+      "scheduledDate": "08-03"
+    },
+    {
+      "word": "Escuálido",
+      "definition": "Muy delgado o desnutrido.",
+      "scheduledDate": "08-04"
+    },
+    {
+      "word": "Clink",
+      "definition": "A sharp ringing sound, such as that made when glasses are struck together.",
+      "scheduledDate": "08-05"
+    },
+    {
+      "word": "Luminiscente",
+      "definition": "Que emite luz sin calor.",
+      "scheduledDate": "08-06"
+    },
+    {
+      "word": "Yelp",
+      "definition": "A short, sharp cry, especially of pain or alarm.",
+      "scheduledDate": "08-07"
+    },
+    {
+      "word": "Cempasúchil",
+      "definition": "Flor tradicional mexicana de color naranja, usada en el Día de Muertos.",
+      "scheduledDate": "08-08"
+    },
+    {
+      "word": "Lope",
+      "definition": "To run or move with a long, bounding stride.",
+      "scheduledDate": "08-09"
+    },
+    {
+      "word": "Silvestre",
+      "definition": "Que crece naturalmente, sin cultivo.",
+      "scheduledDate": "08-10"
+    },
+    {
+      "word": "Faint",
+      "definition": "Lacking strength or clarity; dim or weak.",
+      "scheduledDate": "08-11"
+    },
+    {
+      "word": "Barranco",
+      "definition": "Desnivel profundo en el terreno.",
+      "scheduledDate": "08-12"
+    },
+    {
+      "word": "Croon",
+      "definition": "To hum or sing in a soft, low voice, especially in a sentimental manner.",
+      "scheduledDate": "08-13"
+    },
+    {
+      "word": "Colibrí",
+      "definition": "Pájaro pequeño que bate sus alas rápidamente.",
+      "scheduledDate": "08-14"
+    },
+    {
+      "word": "Scamper",
+      "definition": "To run with quick light steps, especially through fear or excitement.",
+      "scheduledDate": "08-15"
+    }
+  ]
