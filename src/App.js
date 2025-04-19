@@ -2,22 +2,24 @@ import React from 'react';
 import { Routes, Route } from "react-router-dom";
 import About from "./routes/About";
 import Home from "./routes/Home";
-import Navbar from './components/Navbar';
+import Navigation from './components/Navigation';
 import Head from './components/Head';
+import Footer from './components/Footer';
 import ExchangeReading from './routes/ExchangeReading';
 import ReadingExercises from './routes/ReadingExercises';
 
-import './assets/vendor/bootstrap/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+/*import './assets/vendor/bootstrap/css/bootstrap.min.css';
 import './assets/vendor/bootstrap-icons/bootstrap-icons.css';
 import './assets/vendor/aos/aos.css';
-import './assets/vendor/swiper/swiper-bundle.min.css';
+import './assets/vendor/swiper/swiper-bundle.min.css';*/
 import './assets/css/main.css'
 
 function App() {
   return (
     <>
       <Head />
-      <Navbar />
+      <Navigation />
       <main className='main'>
         <Routes>
           <Route path="/" element={<Home />} />
@@ -26,6 +28,7 @@ function App() {
           <Route path="/readingexercises" element={<ReadingExercises />} />
         </Routes>
       </main>
+      <Footer/>
     </>
   );
 }

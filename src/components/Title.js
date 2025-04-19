@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 
 const Title = (props) => {
   return (
@@ -7,7 +8,7 @@ const Title = (props) => {
         <h1 class="mb-2 mb-lg-0">{props.title}</h1>
         <nav class="breadcrumbs">
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><Link to="/#">Home</Link></li>
             {props.title !== 'Home' ? (<li class="current">{props.title}</li>):(<></>)}
           </ol>
         </nav>
