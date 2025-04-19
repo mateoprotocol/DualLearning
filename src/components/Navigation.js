@@ -4,12 +4,12 @@ import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 
 const navmenu = [
-    { name: "Home", path: "/#/" },
-    { name: "About", path: "/#/about" },
+    { name: "Home", path: "#/" },
+    { name: "About", path: "#/about" },
     {
         name: "Categories", sub: [
-            { name: "Learning By Reading", path: "/#/readingexercises" },
-            { name: "Language Exchange Reading", path: "/#/exchangereading" }
+            { name: "Learning By Reading", path: "#/readingexercises" },
+            { name: "Language Exchange Reading", path: "#/exchangereading" }
         ]
     }
 ]
