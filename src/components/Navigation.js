@@ -4,12 +4,12 @@ import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 
 const navmenu = [
-    { name: "Home", path: "#/" },
-    { name: "About", path: "#/about" },
+    { name: "Home", path: "/#/" },
+    { name: "About", path: "/#/about" },
     {
         name: "Categories", sub: [
-            { name: "Learning By Reading", path: "#/readingexercises" },
-            { name: "Language Exchange Reading", path: "#/exchangereading" }
+            { name: "Learning By Reading", path: "/#/readingexercises" },
+            { name: "Language Exchange Reading", path: "/#/exchangereading" }
         ]
     }
 ]
@@ -18,7 +18,7 @@ const Navigation = () => {
     return (
         <Navbar expand="lg" className="bg-body-tertiary">
             <Container class="container justify-content-between">
-                <Navbar.Brand href="#home">Dual Learning</Navbar.Brand>
+                <Navbar.Brand href={navmenu[0].path}>Dual Learning</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="navmenu">
