@@ -2,19 +2,22 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-
-const navmenu = [
-    { name: "Home", path: "#/" },
-    { name: "About", path: "#/about" },
-    {
-        name: "Categories", sub: [
-            { name: "Learning By Reading", path: "#/readingexercises" },
-            { name: "Language Exchange Reading", path: "#/exchangereading" }
-        ]
-    }
-]
+import { useTranslation } from "react-i18next";
 
 const Navigation = () => {
+    const { t } = useTranslation();
+
+    const navmenu = [
+        { name: t('Home.title'), path: "#/" },
+        { name: t('About.title'), path: "#/about" },
+        {
+            name: t('Exercises'), sub: [
+                { name: "Learning By Reading", path: "#/readingexercises" },
+                { name: "Language Exchange Reading", path: "#/exchangereading" }
+            ]
+        }
+    ]
+
     return (
         <Navbar expand="lg" className="bg-body-tertiary">
             <Container class="container justify-content-between">

@@ -4,12 +4,15 @@ import './index.css';
 import App from './App';
 import { HashRouter as Router } from "react-router-dom";
 import reportWebVitals from './reportWebVitals';
+import './i18n.js'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <Router>
+  <Router>
+    <React.Suspense fallback={<div>Loading...</div>}>
       <App />
-    </Router>
+    </React.Suspense>
+  </Router>
 );
 
 // If you want to start measuring performance in your app, pass a function
