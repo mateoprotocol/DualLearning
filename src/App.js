@@ -3,7 +3,6 @@ import { Routes, Route } from "react-router-dom";
 import About from "./routes/About";
 import Home from "./routes/Home";
 import Navigation from './components/Navigation';
-import Head from './components/Head';
 import Footer from './components/Footer';
 import ExchangeReading from './routes/ExchangeReading';
 import ReadingExercises from './routes/ReadingExercises';
@@ -18,7 +17,6 @@ import './assets/css/main.css'
 function App() {
   return (
     <>
-      <Head />
       <Navigation />
       <main className='main'>
         <Routes>

@@ -8,9 +8,9 @@ const ExchangeReading = () => {
             <Title title="Language Exchange Reading" />
             <section className="section">
             </section>
-            <div class="container">
-                <div class="row gy-4">
-                    <div class="col-lg-12 content">
+            <div className="container">
+                <div className="row gy-4">
+                    <div className="col-lg-12 content">
                         <ol>
                             {readingList.map(item => (
                                 <li>

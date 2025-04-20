@@ -20,7 +20,7 @@ const Navigation = () => {
 
     return (
         <Navbar expand="lg" className="bg-body-tertiary">
-            <Container class="container justify-content-between">
+            <Container className="container justify-content-between">
                 <Navbar.Brand href={navmenu[0].path}>Dual Learning</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
@@ -30,7 +30,7 @@ const Navigation = () => {
                                 return (<Nav.Link href={item.path}>{item.name}</Nav.Link>)
                             } else {
                                 return (
-                                    <NavDropdown class="dropdown" title={item.name}>
+                                    <NavDropdown className="dropdown" title={item.name}>
                                         {item.sub?.map(i => {
                                             return (<NavDropdown.Item href={i.path}>{i.name}</NavDropdown.Item>)
                                         })}

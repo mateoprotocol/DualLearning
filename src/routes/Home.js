@@ -20,14 +20,14 @@ const Home = () => {
         <>
             <Title title={t('Home.title')} />
             <section className="section">
-                <div class="container">
-                    <div class="row g-5">
-                        <div class="col-lg-8">
-                            <div class="post-entry lg">
-                                <a href="blog-details.html"><img src="assets/img/post-landscape-1.jpg" alt="" class="img-fluid" /></a>
-                                <div class="post-meta"><span class="date">{t('Home.wordOfTheDay')}</span> <span class="mx-1">•</span> <span>{getFormattedDate()}</span></div>
+                <div className="container">
+                    <div className="row g-5">
+                        <div className="col-lg-8">
+                            <div className="post-entry lg">
+                                <a href="blog-details.html"><img src="assets/img/post-landscape-1.jpg" alt="" className="img-fluid" /></a>
+                                <div className="post-meta"><span className="date">{t('Home.wordOfTheDay')}</span> <span className="mx-1">•</span> <span>{getFormattedDate()}</span></div>
                                 <h2>{wordOfTheDay.word}</h2>
-                                <p class="mb-4 d-block">{wordOfTheDay.definition}</p>
+                                <p className="mb-4 d-block">{wordOfTheDay.definition}</p>
                             </div>
                         </div>
                     </div>
