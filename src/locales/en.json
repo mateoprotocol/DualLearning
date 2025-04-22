@@ -1,0 +1,12 @@
+{
+    "translation": {
+        "Home": {
+            "title": "Home",
+            "wordOfTheDay": "The Word of the Day"
+        },
+        "About": {
+            "title": "About Us"
+        },
+        "Exercises": "Exercises"
+    }
+}

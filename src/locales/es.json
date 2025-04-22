@@ -1,0 +1,12 @@
+{
+    "translation": {
+        "Home": {
+            "title": "Inicio",
+            "wordOfTheDay": "La Palabra del Día"
+        },
+        "About": {
+            "title": "About Us"
+        },
+        "Exercises": "Ejercicios"
+    }
+}
