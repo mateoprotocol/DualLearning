@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DualLearning/static/css/main.e46034d0.css",
-    "main.js": "/DualLearning/static/js/main.5b559086.js",
+    "main.js": "/DualLearning/static/js/main.dd6134e2.js",
     "static/js/453.a096c8fe.chunk.js": "/DualLearning/static/js/453.a096c8fe.chunk.js",
     "index.html": "/DualLearning/index.html",
     "main.e46034d0.css.map": "/DualLearning/static/css/main.e46034d0.css.map",
-    "main.5b559086.js.map": "/DualLearning/static/js/main.5b559086.js.map",
+    "main.dd6134e2.js.map": "/DualLearning/static/js/main.dd6134e2.js.map",
     "453.a096c8fe.chunk.js.map": "/DualLearning/static/js/453.a096c8fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e46034d0.css",
-    "static/js/main.5b559086.js"
+    "static/js/main.dd6134e2.js"
   ]
 }
