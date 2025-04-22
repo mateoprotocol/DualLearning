@@ -8,12 +8,13 @@ const Navigation = () => {
     const { t } = useTranslation();
 
     const navmenu = [
-        { name: t('Home.title'), path: "#/" },
-        { name: t('About.title'), path: "#/about" },
+        { id: 1, name: t('Home.title'), path: "#/" },
+        { id: 2, name: t('About.title'), path: "#/about" },
         {
+            id: 3,
             name: t('Exercises'), sub: [
-                { name: "Learning By Reading", path: "#/readingexercises" },
-                { name: "Language Exchange Reading", path: "#/exchangereading" }
+                { id: 1, name: "Learning By Reading", path: "#/readingexercises" },
+                { id: 2, name: "Language Exchange Reading", path: "#/exchangereading" }
             ]
         }
     ]
@@ -27,12 +28,12 @@ const Navigation = () => {
                     <Nav className="navmenu">
                         {navmenu.map(item => {
                             if (item.path) {
-                                return (<Nav.Link href={item.path}>{item.name}</Nav.Link>)
+                                return (<Nav.Link key={item.id} href={item.path}>{item.name}</Nav.Link>)
                             } else {
                                 return (
-                                    <NavDropdown className="dropdown" title={item.name}>
+                                    <NavDropdown key={item.id} className="dropdown" title={item.name}>
                                         {item.sub?.map(i => {
-                                            return (<NavDropdown.Item href={i.path}>{i.name}</NavDropdown.Item>)
+                                            return (<NavDropdown.Item key={i.id} href={i.path}>{i.name}</NavDropdown.Item>)
                                         })}
                                     </NavDropdown>
                                 )

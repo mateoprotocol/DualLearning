@@ -13,7 +13,7 @@ const ExchangeReading = () => {
                     <div className="col-lg-12 content">
                         <ol>
                             {readingList.map(item => (
-                                <li>
+                                <li key={item.id}>
                                     <h4>{item.title}</h4>
                                     <p>{item.text}</p>
                                 </li>

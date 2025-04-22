@@ -2,10 +2,11 @@
     "translation": {
         "Home": {
             "title": "Inicio",
-            "wordOfTheDay": "La Palabra del Día"
+            "wordOfTheDay": "La Palabra del Día",
+            "recentPosts": "Publicaciones Recientes"
         },
         "About": {
-            "title": "About Us"
+            "title": "Quiénes somos"
         },
         "Exercises": "Ejercicios"
     }
