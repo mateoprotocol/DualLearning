@@ -8,6 +8,9 @@
         "About": {
             "title": "Quiénes somos"
         },
+        "Article": {
+            "title": "Entrada de Blog"
+        },
         "Exercises": "Ejercicios"
     }
 }

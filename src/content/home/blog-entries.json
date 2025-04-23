@@ -7,5 +7,14 @@
         "content": "2025-04-22.html",
         "tags": ["Amar", "Love", "Gustar"],
         "thumbnail": "2025-04-22-01.png"
+    },
+    {
+        "id": 2,
+        "author": "Jeiel L",
+        "publishDate": "2025-04-29",
+        "title": "Domina la “V” en Inglés: Guía para Hispanohablantes",
+        "content": "2025-04-29.html",
+        "tags": ["alfabeto"],
+        "thumbnail": "2025-04-29.png"
     }
 ]

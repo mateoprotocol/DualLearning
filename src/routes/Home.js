@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import DOMPurify from 'dompurify';
 import { useTranslation } from "react-i18next";
 import { Container } from 'react-bootstrap';
+import { getFormattedDate } from '../utils/util';
 import Title from '../components/Title';
 import wordsOfTheDay from '../content/word-of-the-day.json';
 import blogEntries from '../content/home/blog-entries.json';
@@ -9,25 +10,31 @@ import { createMarkup } from '../utils/util';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-regular-svg-icons';
 import { faClock } from '@fortawesome/free-regular-svg-icons/faClock';
+import { faHashtag } from '@fortawesome/free-solid-svg-icons/faHashtag';
+import { Link } from 'react-router-dom';
 
-const getFormattedDate = (dt = new Date()) => {
-    return dt
-        .toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: '2-digit' })
-        .replace(',', '')
-        .replace(/(\d+)$/, "'$1");
+const getMostRecentEntry = (blogEntries) => {
+    const today = new Date();
+
+    // Filter entries where publishDate is not in the future
+    const validEntries = blogEntries.filter(entry => new Date(entry.publishDate) <= today);
+
+    // If no valid entries, return null
+    if (validEntries.length === 0) return null;
+
+    // Find the most recent one
+    return validEntries.reduce((latest, current) => {
+        return new Date(current.publishDate) > new Date(latest.publishDate) ? current : latest;
+    });
 }
 
 const date = new Date()
 const formattedDt = ('0' + (date.getMonth() + 1)).slice(-2) + '-' + ('0' + date.getDate()).slice(-2)
 const wordOfTheDay = wordsOfTheDay.find(item => item.scheduledDate === formattedDt)
-const mostRecentArticle = blogEntries.reduce((latest, current) => {
-    return new Date(current.publishDate) > new Date(latest.publishDate)
-        ? current
-        : latest;
-});
+const mostRecentArticle = getMostRecentEntry(blogEntries)
 
 const Home = () => {
-    
+
     const [htmlContent, setHtmlContent] = useState('');
     useEffect(() => {
         fetch(process.env.PUBLIC_URL + '/articles/' + mostRecentArticle.content)
@@ -68,10 +75,10 @@ const Home = () => {
                                         <div className="content" dangerouslySetInnerHTML={createMarkup(htmlContent)}></div>
 
                                         <div className="meta-bottom">
-                                            <i className="bi bi-tags"></i>
+                                            <i className='p-2'><FontAwesomeIcon icon={faHashtag}></FontAwesomeIcon></i>
                                             <ul className="tags">
                                                 {mostRecentArticle.tags.map(item => (
-                                                    <li><a href="#">{item}</a></li>
+                                                    <li key={mostRecentArticle.tags.indexOf(item)}><a href="#">{item}</a></li>
                                                 ))
                                                 }
                                             </ul>
@@ -85,18 +92,19 @@ const Home = () => {
                             <div className="widgets-container">
                                 <div className="recent-posts-widget widget-item">
                                     <h3 className="widget-title">{t('Home.recentPosts')}</h3>
-                                    {blogEntries.sort((a, b) => b.id - a.id).map(item => (
-                                        <div className="post-item">
+                                    {blogEntries
+                                        .filter(i => new Date(i.publishDate) <= date)
+                                        .sort((a, b) => b.id - a.id).map(item => (
+                                        <div key={item.id} className="post-item">
                                             <img src={process.env.PUBLIC_URL + `/images/${item.thumbnail}`} alt="" className="flex-shrink-0" />
                                             <div>
-                                                <h4><a href="#">{item.title}</a></h4>
+                                                <h4><Link to={`/article?id=${item.id}`}>{item.title}</Link></h4>
                                                 <time dateTime={item.publishDate}>{getFormattedDate(new Date(item.publishDate + 'T00:00:00-05:00'))}</time>
                                             </div>
                                         </div>
                                     ))}
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </Container>

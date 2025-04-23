@@ -8,6 +8,9 @@
         "About": {
             "title": "About Us"
         },
+        "Article": {
+            "title": "Article"
+        },
         "Exercises": "Exercises"
     }
 }
