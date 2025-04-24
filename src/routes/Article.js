@@ -49,8 +49,7 @@ const Article = () => {
                                 <ul className="tags">
                                     {entry?.tags.map(item => (
                                         <li key={entry.tags.indexOf(item)}><a href="#">{item}</a></li>
-                                    ))
-                                    }
+                                    ))}
                                 </ul>
                             </div>
                         </article>

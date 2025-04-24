@@ -11,6 +11,15 @@
         "Article": {
             "title": "Article"
         },
+        "ChatSimulation": {
+            "title": "Chat Simulation",
+            "you": "You",
+            "online": "Online",
+            "offline": "Offline",
+            "reply": "Reply...",
+            "am": "AM",
+            "pm": "PM"
+        },
         "Exercises": "Exercises"
     }
 }

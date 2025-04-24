@@ -11,6 +11,15 @@
         "Article": {
             "title": "Entrada de Blog"
         },
+        "ChatSimulation": {
+            "title": "Simulación de chat",
+            "you": "Tú",
+            "online": "En línea",
+            "offline": "Sin conexión",
+            "reply": "Responde...",
+            "am": "a. m.",
+            "pm": "p. m."
+        },
         "Exercises": "Ejercicios"
     }
 }

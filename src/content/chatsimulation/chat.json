@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "chatTitle": "Uziel",
+        "participants": [],
+        "image": "chat-user-02.png",
+        "online": true,
+        "statusMessage": "",
+        "messages": [
+            {
+                "id": 1,
+                "sender": "Uziel",
+                "self": false,
+                "timestamp": "2025-04-23T14:05:00",
+                "type": "text",
+                "content": "Wey no mames"
+            },
+            {
+                "id": 2,
+                "self": true,
+                "timestamp": "2025-04-23T14:05:01",
+                "type": "text",
+                "content": "Que paso"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chatTitle": "Daniel",
+        "participants": [],
+        "image": "chat-user-03.png",
+        "online": true,
+        "statusMessage": "",
+        "messages": [
+            {
+                "id": 1,
+                "sender": "Daniel",
+                "self": false,
+                "timestamp": "2025-04-23T14:04:00",
+                "type": "text",
+                "content": "Hey man, I completely forgot"
+            },
+            {
+                "id": 2,
+                "self": true,
+                "timestamp": "2025-04-23T14:05:02",
+                "type": "text",
+                "content": "Np"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chatTitle": "Andrea",
+        "participants": [],
+        "image": "chat-user-04.png",
+        "online": true,
+        "statusMessage": "",
+        "messages": []
+    },
+    {
+        "id": 4,
+        "chatTitle": "Emily",
+        "participants": [],
+        "image": "chat-user-05.png",
+        "online": false,
+        "statusMessage": "",
+        "messages": []
+    },
+    {
+        "id": 5,
+        "chatTitle": "Ashley",
+        "participants": [],
+        "image": "chat-user-06.png",
+        "online": false,
+        "statusMessage": "Rise and Slay",
+        "messages": [
+            {
+                "id": 1,
+                "sender": "Ashley",
+                "self": false,
+                "timestamp": "2025-04-22T11:17:55",
+                "type": "text",
+                "content": "Robbie tell me why this man at the gym today was real weird 😩"
+            },
+            {
+                "id": 2,
+                "sender": "Ashley",
+                "self": false,
+                "timestamp": "2025-04-22T11:18:11",
+                "type": "text",
+                "content": "Was seriously giving creep energy for real"
+            },
+            {
+                "id": 3,
+                "sender": "Ashley",
+                "self": false,
+                "timestamp": "2025-04-22T11:18:15",
+                "type": "text",
+                "content": "Like sir why is you watching me do squats like that??? 😒 i ain’t even make eye contact"
+            },
+            {
+                "id": 4,
+                "self": true,
+                "timestamp": "2025-04-22T11:20:10",
+                "type": "text",
+                "content": "Wait what?? fr? you good tho??"
+            },
+            {
+                "id": 5,
+                "sender": "Ashley",
+                "self": false,
+                "timestamp": "2025-04-22T11:20:50",
+                "type": "text",
+                "content": "I’m good now but i had to switch areas 😤 he just stood there like he ain’t know better."
+            },
+            {
+                "id": 6,
+                "sender": "Ashley",
+                "self": false,
+                "timestamp": "2025-04-22T11:21:02",
+                "type": "text",
+                "content": "where you been anyway?? 👀 ain’t seen you in like over a week 😒"
+            },
+            {
+                "id": 7,
+                "self": true,
+                "timestamp": "2025-04-22T11:22:10",
+                "type": "text",
+                "content": "Lol chill i’ve been swamped with work 😩 but i’m pulling up tomorrow"
+            },
+            {
+                "id": 8,
+                "sender": "Ashley",
+                "self": false,
+                "timestamp": "2025-04-22T11:22:19",
+                "type": "text",
+                "content": "Mmhm 👀 you better. Marathon comin up and i need my cheer squad ready lol 🏁🏃🏽‍♀️💨"
+            },
+            {
+                "id": 9,
+                "self": true,
+                "timestamp": "2025-04-22T11:23:01",
+                "type": "text",
+                "content": "Aye you already know i’ll be there front row lol"
+            },
+            {
+                "id": 10,
+                "sender": "Ashley",
+                "self": false,
+                "timestamp": "2025-04-22T11:23:35",
+                "type": "text",
+                "content": "Period!! 😂 you the real MVP"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chatTitle": "Desde la secundaria 🎒",
+        "participants": ["Uziel", "Andrea"],
+        "image": "group-chat-01.jpg",
+        "online": true,
+        "statusMessage": "",
+        "messages": [
+            {
+                "id": 1,
+                "self": true,
+                "timestamp": "2025-04-22T14:05:02",
+                "type": "text",
+                "content": "Feliz cumpleanos Andrea 🎊🎉🥂"
+            },
+            {
+                "id": 2,
+                "sender": "Andrea",
+                "image": "chat-user-04.png",
+                "self": false,
+                "timestamp": "2025-04-22T14:04:10",
+                "type": "text",
+                "content": "Gracias Roberto! 😊"
+            },
+            {
+                "id": 3,
+                "sender": "Uziel",
+                "image": "chat-user-02.png",
+                "self": false,
+                "timestamp": "2025-04-23T08:04:10",
+                "type": "text",
+                "content": "Feliz cumpleanos atrasado Andrea 🎊🎉🥂"
+            }
+        ]
+    }
+]
