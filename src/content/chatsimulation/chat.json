@@ -3,7 +3,7 @@
         "id": 1,
         "chatTitle": "Uziel",
         "participants": [],
-        "image": "chat-user-02.png",
+        "image": "chat-user-02_50x50.png",
         "online": true,
         "statusMessage": "",
         "messages": [
@@ -28,7 +28,7 @@
         "id": 2,
         "chatTitle": "Daniel",
         "participants": [],
-        "image": "chat-user-03.png",
+        "image": "chat-user-03_50x50.png",
         "online": true,
         "statusMessage": "",
         "messages": [
@@ -53,7 +53,7 @@
         "id": 3,
         "chatTitle": "Andrea",
         "participants": [],
-        "image": "chat-user-04.png",
+        "image": "chat-user-04_50x50.png",
         "online": true,
         "statusMessage": "",
         "messages": []
@@ -62,7 +62,7 @@
         "id": 4,
         "chatTitle": "Emily",
         "participants": [],
-        "image": "chat-user-05.png",
+        "image": "chat-user-05_50x50.png",
         "online": false,
         "statusMessage": "",
         "messages": []
@@ -71,7 +71,7 @@
         "id": 5,
         "chatTitle": "Ashley",
         "participants": [],
-        "image": "chat-user-06.png",
+        "image": "chat-user-06_50x50.png",
         "online": false,
         "statusMessage": "Rise and Slay",
         "messages": [
@@ -172,7 +172,7 @@
             {
                 "id": 2,
                 "sender": "Andrea",
-                "image": "chat-user-04.png",
+                "image": "chat-user-04_50x50.png",
                 "self": false,
                 "timestamp": "2025-04-22T14:04:10",
                 "type": "text",
@@ -181,7 +181,7 @@
             {
                 "id": 3,
                 "sender": "Uziel",
-                "image": "chat-user-02.png",
+                "image": "chat-user-02_50x50.png",
                 "self": false,
                 "timestamp": "2025-04-23T08:04:10",
                 "type": "text",

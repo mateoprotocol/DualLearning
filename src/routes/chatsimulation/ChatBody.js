@@ -1,15 +1,26 @@
 import React from 'react';
 import { useTranslation } from "react-i18next";
 import { formatTo12Hour, getFormattedDate, isOneDayOlder } from '../../utils/util';
+import { Button } from 'react-bootstrap';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowLeft } from '@fortawesome/free-solid-svg-icons';
 
 const ChatBody = (props) => {
     const { t } = useTranslation();
     let lastMessageTimestamp = null;
+    
+    const handleClick = () => {
+        props.triggerChatToggle(false);
+    }
+
     return (
         <>
             <div className="decor-default chat-body-container">
                 <div className="border-bottom profile-user">
                     <div className="d-flex align-items-center py-1">
+                        <Button className='chat-back-button' variant={'light border'} onClick={() => handleClick()}>
+                            <FontAwesomeIcon icon={faArrowLeft} />
+                        </Button>
                         <div className="position-relative">
                             <img src={process.env.PUBLIC_URL + `/images/${props.chat.image}`} className="rounded-circle mr-1" alt={props.chat.chatTitle} width="40" height="40" />
                         </div>
@@ -39,15 +50,14 @@ const ChatBody = (props) => {
                     </div>
                 </div>
                 <div className="chat-body col-inside-lg row">
-                    <div className='col-12'>
-
+                    <div className='col-12 inner-body'>
                         {props.chat.messages.map(message => {
                             const output = (
                                 <div key={message.id}>
                                     {isOneDayOlder(lastMessageTimestamp, message.timestamp) ?
                                         (
-                                            <div class="center-with-lines">
-                                                <em class="text text-muted small">{getFormattedDate(new Date(message.timestamp))}</em>
+                                            <div className="center-with-lines">
+                                                <em className="text text-muted small">{getFormattedDate(new Date(message.timestamp))}</em>
                                             </div>
                                         ) : (<></>)}
                                     <div className={`answer ${message.self ? "right" : "left"}`}>

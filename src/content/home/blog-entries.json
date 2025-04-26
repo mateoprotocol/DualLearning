@@ -16,5 +16,14 @@
         "content": "2025-04-29.html",
         "tags": ["alfabeto"],
         "thumbnail": "2025-04-29.png"
+    },
+    {
+        "id": 3,
+        "author": "Jeiel L",
+        "publishDate": "2025-05-06",
+        "title": "Understanding How \"Dar\" Behaves Reflexively or Indirectly in Spanish",
+        "content": "2025-05-06.html",
+        "tags": ["Dar", "Verbs", "Verbos"],
+        "thumbnail": "2025-05-06.png"
     }
 ]

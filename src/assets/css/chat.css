@@ -98,6 +98,10 @@
     border: solid 1px #dddddd;
 }
 
+.chat-body .inner-body {
+    min-height: calc(100vh - 180px);
+}
+
 .chat-body-container .profile-user .details {
     padding-left: 10px;
 }
@@ -285,6 +289,10 @@
 .chat input {
     -webkit-appearance: none;
     border-radius: 0;
+}
+
+.chat-back-button {
+    margin-right: 8px;
 }
 
 .center-with-lines {

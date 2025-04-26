@@ -6,6 +6,7 @@ const ChatUsers = (props) => {
 
     const handleClick = (selectedChat) => {
         props.selectChat(selectedChat)
+        props.triggerChatToggle(true);
     }
 
     return (

@@ -2,181 +2,217 @@
   {
     "title": "Echoes of Belonging",
     "text": "Her story was incredibly relatable, especially the way she described feeling out of place at crowded social events. It wasn’t just the words she used, but the subtle expressions and awkward pauses that made you feel like she was telling your story too. People nodded, laughed, and even got teary-eyed—not because it was dramatic, but because it was so real. There’s something powerful about seeing your own quiet struggles reflected in someone else’s voice.",
-    "id": 1
+    "id": 1,
+    "level": "C1"
   },
   {
     "title": "La Magia de Estrenar Ropa",
     "text": "Ayer fui al cine y aproveché para estrenar mi chaqueta nueva. Me la habían regalado en Navidad, pero quería una ocasión especial para usarla por primera vez. Siempre se siente diferente cuando uno estrena algo, como si todo el día tuviera un brillo especial.",
-    "id": 2
+    "id": 2,
+    "level": "B2"
   },
   {
     "title": "Flaky but Forgivable",
     "text": "Jason’s always been a bit flaky when it comes to making plans—he’ll swear he’s coming, then cancel last minute with some vague excuse. At first, it was frustrating, but over time, everyone just stopped expecting him to show up. Still, he somehow remains charming enough that people keep inviting him anyway, hoping this time might be different.",
-    "id": 3
+    "id": 3,
+    "level": "C1"
   },
   {
     "title": "Mi Perro Mimoso",
     "text": "Mi perro es muy mimoso, siempre busca estar pegado a mí y no se cansa de pedir caricias. Le encanta que lo abracen y se pone celoso si acaricio a otro animal. A veces parece más un bebé que una mascota.",
-    "id": 4
+    "id": 4,
+    "level": "B1"
   },
   {
     "title": "Oversharing in the Office",
     "text": "During the meeting, Karen began to overshare about her recent breakup, going into details that made everyone shift uncomfortably in their seats. It wasn’t the time or place, but no one wanted to be rude and cut her off. Afterward, a few coworkers whispered about how every conversation with her somehow turned into a therapy session.",
-    "id": 5
+    "id": 5,
+    "level": "C1"
   },
   {
     "title": "El Dolor de Madrugar",
     "text": "Mañana tengo que madrugar para ir al aeropuerto y ya estoy sufriendo solo de pensarlo. No me gusta levantarme cuando todavía está oscuro y todo el mundo sigue dormido. Para mí, madrugar no es simplemente levantarse temprano, es un sacrificio real.",
-    "id": 6
+    "id": 6,
+    "level": "C2"
   },
   {
     "title": "A Lobby of Faux Luxury",
     "text": "The hotel lobby was decorated with bright gold accents and plastic chandeliers that felt overwhelmingly tacky. It was clear they were going for luxury, but it came off more like a low-budget movie set. Even the music—loud, dramatic piano covers of pop songs—added to the over-the-top vibe that made guests smirk as they checked in.",
-    "id": 7
+    "id": 7,
+    "level": "C1"
   },
   {
     "title": "Desvelado y en Piloto Automático",
     "text": "Hoy llegué al trabajo completamente desvelado porque me quedé viendo una serie hasta las tres de la mañana. Mis ojos arden y siento que estoy funcionando en piloto automático. No dormir bien te deja con esa sensación de estar desconectado del mundo.",
-    "id": 8
+    "id": 8,
+    "level": "B1"
   },
   {
     "title": "From Stagnation to Success",
     "text": "He used to spend hours daydreaming in his tiny apartment, wondering if his life would ever change. Fast forward five years, and he’s now running his own design studio in the heart of the city. It’s surreal how quickly things shifted once he took that first leap, even though it felt like nothing was moving at all back then.",
-    "id": 9
+    "id": 9,
+    "level": "C1"
   },
   {
     "title": "Una Estampa al Atardecer",
     "text": "Una cigüeña se posó en el tejado de la casa justo cuando comenzaba a atardecer. El cielo estaba pintado de tonos naranjas y rosados, y todo parecía salido de una postal. Los vecinos salieron a mirar, maravillados con la escena.",
-    "id": 10
+    "id": 10,
+    "level": "B2"
   },
   {
     "title": "Reconnecting Over the Credits",
     "text": "She called her friend just as the movie ended, hoping to share how much it excited her. They talked for nearly an hour, laughing about all the parts that surprised them. When she finally walked to her room, she felt relaxed and energized, glad they had connected after such a long time.",
-    "id": 11
+    "id": 11,
+    "level": "B2"
   },
   {
     "title": "Canciones y Chispas",
     "text": "Intentó quebrar la rama seca con el pie, pero esta se resistía con firmeza. En la fogata, alguien comenzó a tocar la guitarra, y el ambiente se llenó de nostalgia. Todos guardaron silencio, escuchando la melodía que se mezclaba con el crepitar del fuego.",
-    "id": 12
+    "id": 12,
+    "level": "C1"
   },
   {
     "title": "Whispers Behind the Walls",
     "text": "The aisle was quiet except for the soft creak of his boots as he passed a plumber fixing a broken pipe beneath the floor. Overhead, a knight stood carved into the wall, its presence more symbolic than threatening. He glanced at a receipt tucked into his coat pocket, then paused near a subtle painting that seemed to whisper more than it showed. In this strange place, nothing was pronounced the way it looked, and every corner hid a contradiction.",
-    "id": 13
+    "id": 13,
+    "level": "C1"
   },
   {
     "title": "Despedida Bajo las Estrellas",
     "text": "El barco estaba listo para zarpar al amanecer, cuando el cielo aún estaba cubierto de estrellas. En la orilla, un zorro observaba con curiosidad desde los arbustos, como si también fuera parte de la despedida. El viento soplaba suave, anunciando un viaje tranquilo.",
-    "id": 14
+    "id": 14,
+    "level": "C1"
   },
   {
     "title": "After the Blast",
     "text": "After the explosion, debris was scattered across the field, glinting under the harsh afternoon sun. The colonel surveyed the damage without saying a word, his expression unreadable beneath the brim of his cap. Nearby, soldiers moved methodically, clearing the wreckage with practiced precision and quiet urgency.",
-    "id": 15
+    "id": 15,
+    "level": "C2"
   },
   {
     "title": "El Guía y las Ruinas",
     "text": "El guía bilingüe nos acompañó durante todo el recorrido por las ruinas mayas, explicando cada detalle con paciencia. Hablaba con una naturalidad que hacía fácil seguirle el ritmo, incluso cuando cambiaba de idioma en medio de una frase. Nos contó anécdotas curiosas sobre los arqueólogos que habían trabajado allí y señaló símbolos tallados que la mayoría no habría notado. Cuando terminó la visita, varios turistas se acercaron a agradecerle por su claridad y entusiasmo. Fue, sin duda, la mejor parte del viaje.",
-    "id": 16
+    "id": 16,
+    "level": "C1"
   },
   {
     "title": "Storm-Worn Silence",
     "text": "The chauffeur arrived late, clearly exhausted from the storm that had wrecked the coastal roads the night before. He handed over the keys without a word, his uniform slightly stained and his expression distant. As they drove past the wreckage, the silence in the car felt forced, as if neither of them wanted to acknowledge the damage they’d just witnessed.",
-    "id": 17
+    "id": 17,
+    "level": "C1"
   },
   {
     "title": "Tarde de Feria y Sonrisas",
     "text": "Compraron varios juguetes en la feria del domingo, aprovechando las ofertas antes de que cerraran los puestos. Había carritos de lata, muñecas de trapo, y hasta un güiro viejo con rayones que mostraban su historia. Lo probaron al llegar a casa, pasando la varita sobre las ranuras con una sonrisa que les iluminaba la cara. La melodía improvisada hizo que todos comenzaran a reír y aplaudir, como si el tiempo se hubiera detenido por un momento. Esa tarde no necesitaron pantallas ni conexión a internet para divertirse.",
-    "id": 18
+    "id": 18,
+    "level": "C1"
   },
   {
     "title": "The Door to Forgotten Things",
     "text": "The wretched old sign creaked in the wind as the hour struck midnight, casting long shadows across the empty aisle. He climbed the crooked steps slowly, his thumb brushing against the knob of the heavy oak door. Inside, the air was thick and layered with dust, each breath tinged with the scent of forgotten pages and ash. He paused, eyes adjusting, heart steady, listening for a whisper that never came.",
-    "id": 19
+    "id": 19,
+    "level": "B2"
   },
   {
     "title": "Instrucciones en el Sendero",
     "text": "Debes guiar al grupo por el sendero del lado izquierdo, no por el que baja hacia el río. Ya pasaron dos excursiones por ahí y dijeron que es el camino más seguro. No te separes de ellos en ningún momento.",
-    "id": 20
+    "id": 20,
+    "level": "B1"
   },
   {
     "title": "It's Giving",
     "text": "The vibe that night was ephemeral—the kind of energy that hits once, then vanishes like smoke. Everyone was laughing, dancing, living in the moment like it was made just for us. But you already know, it was giving magic while it lasted, and then just like that… gone.",
-    "id": 21
+    "id": 21,
+    "level": "B2"
   },
   {
     "title": "Entre Gestos y Matices",
     "text": "A veces no es tan fácil saber si alguien te está tirando la onda o solo es amable por naturaleza. En el caso de Mariana, todo estaba en los matices: la forma en que te miraba cuando hablabas, cómo buscaba excusas para tocarte el brazo o quedarse más tiempo conversando. No era algo obvio ni directo, pero había una intención sutil que poco a poco se hacía evidente. Esos pequeños gestos, casi imperceptibles, decían más que cualquier declaración abierta.",
-    "id": 22
+    "id": 22,
+    "level": "C1"
   },
   {
     "title": "Built to Withstand",
     "text": "Despite the constant setbacks she faced, Maya remained resilient and determined. She never allowed failure to define her, instead choosing to learn and adapt with each challenge. Over time, her perseverance became her greatest strength, earning her both success and respect. Even when things got heavy, she kept her head high and moved with intention. \"Yo, Maya really be goin' through it, but she don’t ever let it show,\" said Tasha, watching her from across the room. \"For real,\" Jay added, \"Shorty built tough—like, she take hits and keep steppin'. That’s rare.\"",
-    "id": 23
+    "id": 23,
+    "level": "B2"
   },
   {
     "title": "Lo Chévere y lo Claro",
     "text": "El concierto estuvo chévere, con luces increíbles y una banda que sabía cómo animar al público. Todo el mundo cantaba y bailaba sin preocuparse por nada más. Sin embargo, fue en medio de ese caos divertido cuando me percaté de algo: a pesar del ruido, mis ojos seguían buscándola a ella. Estaba a unos metros, riendo con sus amigas, sin saber que cada pequeño gesto suyo me atrapaba más.",
-    "id": 24
+    "id": 24,
+    "level": "B2"
   },
   {
     "title": "Clouded Signals",
     "text": "His response was so ambiguous that no one knew what he truly meant. Some believed he was in favor of the idea, while others were certain he opposed it. The lack of clarity caused confusion and delayed the entire project. Every time he spoke, he left just enough room for people to interpret it however they wanted. \"He said he 'might be down'? Man, what that even mean?\" Malik asked, brows furrowed. \"I dunno, he stay talkin’ in circles like that,\" Bri replied. \"He either in or he out—ain’t no in-between.\"",
-    "id": 25
+    "id": 25,
+    "level": "B1"
   },
   {
     "title": "Energía Inconmensurable",
     "text": "La energía en ese festival fue inconmensurable. La gente no paraba de bailar, cantar y reír como si no existiera el mañana. Hasta los que normalmente son más reservados se contagiaron de la buena vibra del ambiente, y como decimos en México, fue una noche a toda madre.",
-    "id": 26
+    "id": 26,
+    "level": "B2"
   },
   {
     "id": 27,
     "title": "No Desdeñes lo Pequeño",
-    "text": "No deberías desdeñar las oportunidades solo porque no llegan envueltas como esperas. En Colombia decimos que “no hay que hacerle el feo a lo que llega con buena intención”. A veces lo que parece pequeño termina siendo el inicio de algo mucho más grande."
+    "text": "No deberías desdeñar las oportunidades solo porque no llegan envueltas como esperas. En Colombia decimos que “no hay que hacerle el feo a lo que llega con buena intención”. A veces lo que parece pequeño termina siendo el inicio de algo mucho más grande.",
+    "level": "B2"
   },
   {
     "id": 28,
     "title": "Truth Without Filters",
-    "text": "She appreciated his candid opinion, even if it was difficult to hear. Honesty, when delivered with respect, is far far more valuable than empty compliments. His straightforwardness helped her grow and improve in ways no one else had dared to address. In a world full of surface-level interactions, his willingness to speak truth stood out. It wasn’t always easy to receive, but it always came from a place of genuine care."
+    "text": "She appreciated his candid opinion, even if it was difficult to hear. Honesty, when delivered with respect, is far far more valuable than empty compliments. His straightforwardness helped her grow and improve in ways no one else had dared to address. In a world full of surface-level interactions, his willingness to speak truth stood out. It wasn’t always easy to receive, but it always came from a place of genuine care.",
+    "level": "B2"
   },
   {
     "id": 29,
     "title": "Un Encanto Perenne",
-    "text": "Su sonrisa tenía un efecto perenne, como esas canciones que nunca se olvidan. En Venezuela, diríamos que era una chama chévere de verdad, con un encanto que se quedaba pegado al alma. Aunque pasaron los años, aún la recuerdo con la misma calidez."
+    "text": "Su sonrisa tenía un efecto perenne, como esas canciones que nunca se olvidan. En Venezuela, diríamos que era una chama chévere de verdad, con un encanto que se quedaba pegado al alma. Aunque pasaron los años, aún la recuerdo con la misma calidez.",
+    "level": "B2"
   },
   {
     "id": 30,
     "title": "Luxury Without Meaning",
-    "text": "The party was unnecessarily ostentatious, complete with gold-plated tableware and fireworks at midnight. Many guests felt the display was more about showing off than celebrating anything meaningful. The host insisted it was a way of \"setting a tone,\" but it came across as hollow. It felt like style over substance, extravagance without purpose. It left an impression, but not necessarily a positive one."
+    "text": "The party was unnecessarily ostentatious, complete with gold-plated tableware and fireworks at midnight. Many guests felt the display was more about showing off than celebrating anything meaningful. The host insisted it was a way of \"setting a tone,\" but it came across as hollow. It felt like style over substance, extravagance without purpose. It left an impression, but not necessarily a positive one.",
+    "level": "C2"
   },
   {
     "id": 31,
     "title": "Lo Que Subyace",
-    "text": "Lo que realmente subyacía en sus palabras no era enojo, sino una profunda tristeza que no se atrevía a mostrar. Como dicen en México, “no es lo que se dice, sino cómo se dice”, y su tono lo revelaba todo. A veces lo más fuerte no es lo que grita, sino lo que se esconde en silencio."
+    "text": "Lo que realmente subyacía en sus palabras no era enojo, sino una profunda tristeza que no se atrevía a mostrar. Como dicen en México, “no es lo que se dice, sino cómo se dice”, y su tono lo revelaba todo. A veces lo más fuerte no es lo que grita, sino lo que se esconde en silencio.",
+    "level": "C1"
   },
   {
     "id": 32,
     "title": "Receipts or It Didn't Happen",
-    "text": "Before accusing someone publicly, it’s essential to substantiate your claims with solid evidence. Allegations without proof can damage reputations and create lasting harm. In a world full of misinformation, truth must be backed by facts, not just feelings. Too often, people confuse speculation with truth, and that’s when trust breaks down. To speak with weight, you have to come correct—with receipts."
+    "text": "Before accusing someone publicly, it’s essential to substantiate your claims with solid evidence. Allegations without proof can damage reputations and create lasting harm. In a world full of misinformation, truth must be backed by facts, not just feelings. Too often, people confuse speculation with truth, and that’s when trust breaks down. To speak with weight, you have to come correct—with receipts.",
+    "level": "B2"
   },
   {
     "id": 33,
     "title": "Entre la Espada y la Pared",
-    "text": "Estaba en una disyuntiva: quedarse en su país o aceptar una beca que lo llevaría lejos de su familia. En Colombia, a veces decimos que uno está “entre la espada y la pared”, y así se sentía él, dividido entre el corazón y el futuro. Al final, eligió lo que más lo retaba, aunque le doliera."
+    "text": "Estaba en una disyuntiva: quedarse en su país o aceptar una beca que lo llevaría lejos de su familia. En Colombia, a veces decimos que uno está “entre la espada y la pared”, y así se sentía él, dividido entre el corazón y el futuro. Al final, eligió lo que más lo retaba, aunque le doliera.",
+    "level": "C1"
   },
   {
     "id": 34,
     "title": "Stuck Between Risk and Regret",
-    "text": "We were stuck in a serious conundrum: take the risky opportunity or play it safe and possibly miss out. Every option had consequences we couldn’t fully predict. In moments like that, logic and instinct are often at war. We argued, reflected, and slept on it—hoping for some kind of sign. In the end, we had to choose, knowing that not choosing at all would be the worst decision."
+    "text": "We were stuck in a serious conundrum: take the risky opportunity or play it safe and possibly miss out. Every option had consequences we couldn’t fully predict. In moments like that, logic and instinct are often at war. We argued, reflected, and slept on it—hoping for some kind of sign. In the end, we had to choose, knowing that not choosing at all would be the worst decision.",
+    "level": "B2"
   },
   {
     "id": 35,
     "title": "Una Verdad Ineludible",
-    "text": "Era una verdad ineludible: se había enamorado sin quererlo. No importaban sus excusas ni sus intentos de hacerse el fuerte, como se dice en Venezuela, ya estaba rayado. Aceptarlo no lo hizo más débil, sino más honesto consigo mismo."
+    "text": "Era una verdad ineludible: se había enamorado sin quererlo. No importaban sus excusas ni sus intentos de hacerse el fuerte, como se dice en Venezuela, ya estaba rayado. Aceptarlo no lo hizo más débil, sino más honesto consigo mismo.",
+    "level": "B2"
   },
   {
     "id": 36,
     "title": "Precision Over Pace",
-    "text": "Her approach to the project was meticulous, with every detail carefully considered and executed. Nothing escaped her attention, from formatting to final presentation. She planned each step in advance, color-coded her notes, and checked everything twice. While others rushed to meet deadlines, she moved with steady precision. That level of dedication was the reason her work consistently stood out, and people began to rely on her not just for results—but for excellence."
+    "text": "Her approach to the project was meticulous, with every detail carefully considered and executed. Nothing escaped her attention, from formatting to final presentation. She planned each step in advance, color-coded her notes, and checked everything twice. While others rushed to meet deadlines, she moved with steady precision. That level of dedication was the reason her work consistently stood out, and people began to rely on her not just for results—but for excellence.",
+    "level": "C1"
   }
 ]
