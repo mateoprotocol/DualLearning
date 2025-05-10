@@ -10,8 +10,9 @@ const Navigation = () => {
     const navmenu = [
         { id: 1, name: t('Home.title'), path: "#/" },
         { id: 2, name: t('About.title'), path: "#/about" },
+        { id: 3, name: t('ChatSimulation.title'), path: '#/chat-simulation'},
         {
-            id: 3,
+            id: 4,
             name: t('Exercises'), sub: [
                 { id: 1, name: "Learning By Reading", path: "#/readingexercises" },
                 { id: 2, name: "Language Exchange Reading", path: "#/exchangereading" }
