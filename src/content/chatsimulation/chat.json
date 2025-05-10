@@ -157,7 +157,10 @@
     {
         "id": 6,
         "chatTitle": "Desde la secundaria 🎒",
-        "participants": ["Uziel", "Andrea"],
+        "participants": [
+            "Uziel",
+            "Andrea"
+        ],
         "image": "group-chat-01.jpg",
         "online": true,
         "statusMessage": "",
@@ -186,6 +189,144 @@
                 "timestamp": "2025-04-23T08:04:10",
                 "type": "text",
                 "content": "Feliz cumpleanos atrasado Andrea 🎊🎉🥂"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "chatTitle": "Ale",
+        "participants": [],
+        "image": "chat-user-07_50x50.png",
+        "online": true,
+        "statusMessage": "",
+        "messages": [
+            {
+                "id": 1,
+                "sender": "Ale",
+                "self": false,
+                "timestamp": "2025-04-23T14:05:00",
+                "type": "text",
+                "content": "Hola, q ta chendo?"
+            },
+            {
+                "id": 2,
+                "self": true,
+                "timestamp": "2025-04-23T14:05:01",
+                "type": "text",
+                "content": "Nada, aki en casa. Y tú?"
+            },
+            {
+                "id": 3,
+                "sender": "Ale",
+                "self": false,
+                "timestamp": "2025-04-23T14:05:03",
+                "type": "text",
+                "content": "=, aburrido. Q vas a hacer hoy?"
+            },
+            {
+                "id": 4,
+                "self": true,
+                "timestamp": "2025-04-23T14:05:05",
+                "type": "text",
+                "content": "Nada, creo q m voy a dormir temprano"
+            },
+            {
+                "id": 5,
+                "sender": "Ale",
+                "self": false,
+                "timestamp": "2025-04-23T14:05:06",
+                "type": "text",
+                "content": "Buena idea, descansa"
+            },
+            {
+                "id": 6,
+                "self": true,
+                "timestamp": "2025-04-23T14:05:07",
+                "type": "text",
+                "content": "Sii, nos vemos mañana"
+            },
+            {
+                "id": 7,
+                "sender": "Ale",
+                "self": false,
+                "timestamp": "2025-04-24T14:05:00",
+                "type": "text",
+                "content": "Q onda, dónde estás?"
+            },
+            {
+                "id": 8,
+                "self": true,
+                "timestamp": "2025-04-24T14:05:01",
+                "type": "text",
+                "content": "Estoy en el trabajo, y tú?"
+            },
+            {
+                "id": 9,
+                "sender": "Ale",
+                "self": false,
+                "timestamp": "2025-04-24T14:05:02",
+                "type": "text",
+                "content": "Aki en casa, aburrido"
+            },
+            {
+                "id": 10,
+                "sender": "Ale",
+                "self": false,
+                "timestamp": "2025-04-24T14:05:03",
+                "type": "text",
+                "content": "Pues vente aka x casa de manuel y nos vemos"
+            },
+            {
+                "id": 11,
+                "self": true,
+                "timestamp": "2025-04-24T14:05:04",
+                "type": "text",
+                "content": "No puedo, tengo q terminar esto"
+            },
+            {
+                "id": 12,
+                "sender": "Ale",
+                "self": false,
+                "timestamp": "2025-04-24T14:05:05",
+                "type": "text",
+                "content": "Bueno, luego nos vemos"
+            },
+            {
+                "id": 13,
+                "self": true,
+                "timestamp": "2025-04-25T14:05:00",
+                "type": "text",
+                "content": "Ya viste lo que paso en la pagina?"
+            },
+            {
+                "id": 14,
+                "sender": "Ale",
+                "self": false,
+                "timestamp": "2025-04-25T14:05:01",
+                "type": "text",
+                "content": "mmmm a ver deja saco mi lap"
+            },
+            {
+                "id": 15,
+                "self": true,
+                "timestamp": "2025-04-25T14:05:02",
+                "type": "text",
+                "content": "solo dios sabra"
+            },
+            {
+                "id": 16,
+                "sender": "Ale",
+                "self": false,
+                "timestamp": "2025-04-25T14:05:03",
+                "type": "text",
+                "content": "sqe yo lo estoy viendo en la app y no veo nada"
+            },
+            {
+                "id": 17,
+                "self": true,
+                "timestamp": "2025-04-25T14:05:04",
+                "type": "text",
+                "content": "no ps no se"
             }
         ]
     }
